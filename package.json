@@ -1,0 +1,25 @@
+{
+  "name": "api-express-AndrewB-muhiddin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app",
+    "dev": "nodemon app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thinkful-ei-macaw/api-express-AndrewB-muhiddin.git"
+  },
+  "keywords": [],
+  "author": "AndrewB & Muhiddin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thinkful-ei-macaw/api-express-AndrewB-muhiddin/issues"
+  },
+  "homepage": "https://github.com/thinkful-ei-macaw/api-express-AndrewB-muhiddin#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
